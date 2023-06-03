@@ -5,6 +5,7 @@ public class Rectangle {
     public int height;
     public int width;
 
+
     public int getArea(){
         return (int) (height*width);
     }
